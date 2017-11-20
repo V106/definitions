@@ -1,0 +1,4 @@
+Two modes for cameras:
+  - Bitmap for QR
+  - Color mode for regular photos
+  
