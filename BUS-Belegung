@@ -1,0 +1,12 @@
+***Bussystem***
+
+24 Bit Gesamt
+16 Bit Bus - 8 In, 8 Out
+1 Bit Clockrate
+1 Bit Adress send
+1 Bit Adress receive
+1 Bit Interrupt
+1 Bit Pariety
+1 Bit Error
+1 Bit Warning
+1 Bit Handshake
